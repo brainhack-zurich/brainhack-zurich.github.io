@@ -35,13 +35,9 @@ The admission is free but [registration](https://goo.gl/forms/Ss9dlfuGWzqsuy6y1)
 ## FAQ
 
 * *I attended last year's event. What will be different?*
-
     * We now also host a hackathon that allows for a more free-form collaboration.
-
     * We aim for a less dense schedule that leaves more opportunities for open discussion.
-
     * We aim for tutorials that are even more hands-on so that you can continue using the tools after the event.
-
     * Our hope is that you come and hang out together for a couple of days. Collaborate on topics that interest you, attend tutorials that interest you, give talks if you want to, and make the event what you want it to be.
 
 *Wait, what is a hackathon?*
