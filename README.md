@@ -1,6 +1,6 @@
 # Brainhack Zurich 2018, May 2-4
 
-![](https://github.com/brainhack-zurich/brainhack-zurich.github.io/blob/master/logo.png)
+![](logo.png)
 
 
 
