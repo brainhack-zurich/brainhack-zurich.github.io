@@ -28,9 +28,9 @@ During the three days event we will host a hackathon. The hackathon will give yo
 Participants can propose projects that they would like to work on during the hackathon or join an existing projects. The projects will be listed on our website. To propose a project, fill out [this form](https://goo.gl/forms/Pk14z4UyX2mUc2er1).
 A list of projects can be found [here](projects.html)
 
-## Registration and further information
+## Registration
 
-The admission is free but [registration](https://goo.gl/forms/Ss9dlfuGWzqsuy6y1) until **April 18** is required. More information on [http://brainhack-zurich.github.io](http://brainhack-zurich.github.io).
+The admission is free but [registration](https://goo.gl/forms/Ss9dlfuGWzqsuy6y1) until **April 18** is required.
 
 ## FAQ
 
