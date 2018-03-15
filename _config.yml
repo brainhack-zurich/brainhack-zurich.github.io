@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+
+navbar-links:
+  Home: ""
+  Projects: "projects.html"
+
