@@ -1,5 +1,6 @@
-
 # Brainhack Zurich 2018, May 2-4
+
+![](logo.png)
 
 
 
@@ -72,3 +73,6 @@ Alessandro Crimi, Amelie Haugg, Christian Horea, Franz Liem, Jessica Oschwald, F
 
 ## Previous events
 For Brainhack Zurich 2017 info click [here](https://dynage.github.io/brainhack-zh/)
+
+## Sponsors
+![](sponsors.png)
