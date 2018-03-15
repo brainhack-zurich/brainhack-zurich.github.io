@@ -1,6 +1,6 @@
-# Brainhack Zurich 2018, May 2-4
 
 ![](logo.png)
+# Brainhack Zurich 2018, May 2-4
 
 
 
