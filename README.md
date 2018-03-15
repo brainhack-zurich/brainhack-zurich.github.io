@@ -34,31 +34,19 @@ The admission is free but [registration](https://goo.gl/forms/Ss9dlfuGWzqsuy6y1)
 
 ## FAQ
 
-*I attended last year's event. What will be different?*
-
-* We now also host a hackathon that allows for a more free-form collaboration.
-
-* We aim for a less dense schedule that leaves more opportunities for open discussion.
-
-* We aim for tutorials that are even more hands-on so that you can continue using the tools after the event.
-
-* Our hope is that you come and hang out together for a couple of days. Collaborate on topics that interest you, attend tutorials that interest you, give talks if you want to, and make the event what you want it to be.
-
-*Wait, what is a hackathon?*
-
-* A bottom-up driven event where people intensely collaborate for a couple of days on a project (and, ideally, continue collaborating after the hackathon). The project usually is focused on developing software. However, we want to expand the hackathon concept beyond just software. A project might be a discussion group about analysis approaches for data, about open scientific tools, about ensuring that research projects are reproducible....
-
-*I do not know how to write code. Can I still participate?*
-
-* Sure. We want to reach researchers of all levels of experience. Our hope is that Brainhack will introduce you to tools that you can use for your future research and will also guide you towards creating your own tools.
-
-*I am a bachelor's/master's student. Can I still participate?*
-
-* Sure.
-
-*I do not have a project to propose.*
-
-* That's OK. Our hope is that you join a project that excites you.
+* *I attended last year's event. What will be different?*
+    * We now also host a hackathon that allows for a more free-form collaboration.
+    * We aim for a less dense schedule that leaves more opportunities for open discussion.
+    * We aim for tutorials that are even more hands-on so that you can continue using the tools after the event.
+    * Our hope is that you come and hang out together for a couple of days. Collaborate on topics that interest you, attend tutorials that interest you, give talks if you want to, and make the event what you want it to be.
+* *Wait, what is a hackathon?*
+    * A bottom-up driven event where people intensely collaborate for a couple of days on a project (and, ideally, continue collaborating after the hackathon). The project usually is focused on developing software. However, we want to expand the hackathon concept beyond just software. A project might be a discussion group about analysis approaches for data, about open scientific tools, about ensuring that research projects are reproducible....
+* *I do not know how to write code. Can I still participate?*
+    * Sure. We want to reach researchers of all levels of experience. Our hope is that Brainhack will introduce you to tools that you can use for your future research and will also guide you towards creating your own tools.
+* *I am a bachelor's/master's student. Can I still participate?*
+    * Sure.
+* *I do not have a project to propose.*
+    * That's OK. Our hope is that you join a project that excites you.
 
 
 Don't hesitate to get in touch with questions: [brainhack.zh@gmail.com](mailto:brainhack.zh@gmail.com)
