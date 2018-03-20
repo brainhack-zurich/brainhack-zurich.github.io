@@ -1,7 +1,7 @@
 
 ![](logo.png)
 # Brainhack Zurich 2018, May 2-4
-**Open tools for reproducible neuroscience**
+### Open tools for reproducible neuroscience
 
 
 
