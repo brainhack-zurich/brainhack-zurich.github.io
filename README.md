@@ -42,6 +42,8 @@ The admission is free but [registration](https://goo.gl/forms/Ss9dlfuGWzqsuy6y1)
     * Sure. We want to reach researchers of all levels of experience. Our hope is that Brainhack will introduce you to tools that you can use for your future research and will also guide you towards creating your own tools.
 * *I am a bachelor's/master's student. Can I still participate?*
     * Sure.
+* *I am interested in open science, but I am not in neuroscience. Can I still participate?*
+    * Sure. While we focus on brain imaging, there will be topics relevant to other fields as well.
 * *I do not have a project to propose.*
     * That's OK. Our hope is that you join a project that excites you.
 
