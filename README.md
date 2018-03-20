@@ -1,11 +1,11 @@
 
 ![](logo.png)
 # Brainhack Zurich 2018, May 2-4
+**Open tools for reproducible neuroscience**
 
 
 
-
-We are happy to announce the second Brainhack in Zurich. It will be held at the University Research Priority Program Dynamics of Healthy Aging at UZH on May 2 - 4 2018 as part of Brainhack Global ([brainhack.org/global2018/](http://brainhack.org/global2018/)).
+We are happy to announce the second Brainhack in Zurich. It will be held at the University Research Priority Program Dynamics of Healthy Aging at UZH on May 2 - 4 2018 as part of [Brainhack Global](http://brainhack.org/global2018/).
 
 ## The Zurich Brainhack will feature
 
