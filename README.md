@@ -9,7 +9,7 @@ We are happy to announce the second Brainhack in Zurich. It will be held at the 
 
 ## The Zurich Brainhack will feature
 
-* Introductory hands-on **tutorials** on (neuroimaging) data analysis tools which promote reproducible science
+* Introductory hands-on **tutorials** on (neuroimaging) data analysis tools which promote reproducible science (e.g. BIDS and BIDS Apps)
 * A **hackathon** where participants can intensely collaborate on projects (for instance by discussing best practices in a field or developing a software package)
 * **Talks** by invited speakers (for instance a video keynote lecture by Daniel Lakens) and talks by the participants
 * A **helpdesk** where participants can ask experts about software/data analysis issues  (e.g. Linux, Python, MATLAB, SPM, EEG) in a one-to-one setting
