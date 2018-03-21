@@ -1,5 +1,6 @@
-|          May 2        |           |                 |                                                                   |
+|                 |           |                 |                                                                   |
 |------------------|-----------|-----------------|-------------------------------------------------------------------|
+|     **May 2** |           |                 |                                         |
 | 9:00-9:30        |           |                 | Introduction to Brainhack, presentation of the space and schedule |
 | 9:30-10:30       |           | Participants    | Project pitches                                                   |
 | 10:30 -          | Hackathon |                 | Open Hacking                                                      |
