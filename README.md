@@ -22,7 +22,7 @@ During the three days event we will host a hackathon. The hackathon will give yo
 
 ## Projects
 
-Participants can propose projects that they would like to work on during the hackathon or join an existing projects. The projects will be listed on our website. To propose a project, fill out [this form](https://goo.gl/forms/Pk14z4UyX2mUc2er1).
+Participants can propose projects that they would like to work on during the hackathon or join an existing project. The projects will be listed on our website. To propose a project, fill out [this form](https://goo.gl/forms/Pk14z4UyX2mUc2er1).
 **A list of projects can be found [here](projects.html)**
 
 ## Registration and further information
