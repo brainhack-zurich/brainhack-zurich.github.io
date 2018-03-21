@@ -7,10 +7,13 @@ We will discuss approaches to check quality of structural and functional MRI dat
 
 
     
-## SAMRI
+## [SAMRI (Small Animal Magnetic Resonance Imaging)](https://github.com/IBT-FMI/SAMRI)
 *Horea Christian (ioanas@biomed.ee.ethz.ch)*
 
-High-level integrated pipelines for small animal magnetic resonance imaging. SAMRI automatically, transparently, and reproducibly takes you from raw scanner data to wonderful figures, and gives you access to numerous small-animal optimizations in data processing and analysis.
+SAMRI is a high-level toolkit, which automatically, transparently, and reproducibly takes you from raw scanner data to beautiful figures, and gives you access to numerous small-animal optimizations in data processing and analysis.
+
+This sprint is a great opportunity for you to work together with us in bringing the power of SAMRI to your specific line of work - or for you to gain insight into the most common animal MRI workflows by helping us address existing issues.
+We will have testing/validation data available, and we're happy to help you get acquainted with everything!
 
 
     
