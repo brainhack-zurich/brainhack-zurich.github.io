@@ -73,6 +73,9 @@ The event will be held at the University Research Priority Program Dynamics of H
     * Sure.
 * *I am interested in open science, but I am not in neuroscience. Can I still participate?*
     * Sure. While we focus on brain imaging, there will be topics relevant to other fields as well.
+    All the talks will have a non-brain-imaging-focus.
+    The *Introduction to GitHub tutorial* will also be relevant to a
+    wide audience.
 * *I do not have a project to propose.*
     * That's OK. Our hope is that you join a project that excites you.
 
