@@ -45,3 +45,6 @@ example data set **#TODO**
 *  optionally, bring your own BIDS-formatted MRI data
 (T1w and/or functional), for instance, the result of the
 **Introduction to BIDS** tutorial)
+
+## Slides
+will be posted [here](https://github.com/fliem/bids_apps_intro).
