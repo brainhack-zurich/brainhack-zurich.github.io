@@ -35,7 +35,7 @@ MRIQC is required.
 [mac](https://docs.docker.com/docker-for-mac/install/),
 [windows](https://docs.docker.com/docker-for-windows/install/),
 [linux](https://docs.docker.com/install/linux/docker-ce/ubuntu/))
-* if possible already download (pull) the docker container we will be
+* if possible, already download (pull) the docker container we will be
 using:
     * open a terminal window/command line
     * paste the following command: `docker pull poldracklab/mriqc:0.10.4`
