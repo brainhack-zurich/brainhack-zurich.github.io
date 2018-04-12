@@ -7,7 +7,7 @@ We will discuss approaches to check quality of structural and functional MRI dat
 
 
     
-## Statistical methods for longitudinal data
+## Statistical methods for longitudinal dat
 *Jessica Oschwald (jessica.oschwald@uzh.ch)*
 
 We will discuss and compare different statistical methods suited to analyze longitudinal data, with a focus on modeling change processes over time (e.g., multilevel models, latent change models). Specifically, we will talk about the most common issues encountered when fitting these type of models, with the aim of identifying best practices. How can we compute a measure of effect size? How do we decide on the best fitting model? What are tools that can help with fitting and visualizing model outputs? 
@@ -24,8 +24,15 @@ Suggested reading: Preti, M. G., Bolton, T. A., & Van De Ville, D. (2016). The d
 
 
     
+## Pattern recognition on brain image
+*Hongyu luo (Luo.hongyu@outlook.com)*
+
+Use machine learning method on brain image to do pattern recognition
+
+
+    
 ## [SAMRI (Small Animal Magnetic Resonance Imaging)](https://github.com/IBT-FMI/SAMRI)
-*Horea Christian (ioanas@biomed.ee.ethz.ch)*
+*[Horea Christian](https://www.researchgate.net/profile/Horea_Christian)  (ioanas@biomed.ee.ethz.ch)*
 
 SAMRI is a high-level toolkit, which automatically, transparently, and reproducibly takes you from raw scanner data to beautiful figures, and gives you access to numerous small-animal optimizations in data processing and analysis.
 
