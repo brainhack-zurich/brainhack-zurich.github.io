@@ -24,13 +24,6 @@ Suggested reading: Preti, M. G., Bolton, T. A., & Van De Ville, D. (2016). The d
 
 
     
-## Pattern recognition on brain image
-*Hongyu luo (Luo.hongyu@outlook.com)*
-
-Use machine learning method on brain image to do pattern recognition
-
-
-    
 ## [SAMRI (Small Animal Magnetic Resonance Imaging)](https://github.com/IBT-FMI/SAMRI)
 *[Horea Christian](https://www.researchgate.net/profile/Horea_Christian)  (ioanas@biomed.ee.ethz.ch)*
 
@@ -38,6 +31,13 @@ SAMRI is a high-level toolkit, which automatically, transparently, and reproduci
 
 This sprint is a great opportunity for you to work together with us in bringing the power of SAMRI to your specific line of work - or for you to gain insight into the most common animal MRI workflows by helping us address existing issues.
 We will have testing/validation data available, and we're happy to help you get acquainted with everything!
+
+
+    
+## Pattern recognition on brain image
+*Hongyu luo (Luo.hongyu@outlook.com)*
+
+I would like to using machine learning algorithm on brain image data.
 
 
     
