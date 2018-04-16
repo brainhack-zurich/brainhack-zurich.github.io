@@ -34,14 +34,14 @@ Participants can propose projects that they would like to work on during the hac
 | 9:00 - 9:30        |           |                                                                                        | Introduction to Brainhack, presentation of the space and schedule |
 | 9:30 - 10:30       |           | Participants                                                                           | Project pitches                                                   |
 | 10:30 -          | Hackathon |                                                                                        | Open Hacking                                                      |
-| 13:30 - 14:30      | Tutorial  | [Horea Christian](https://www.researchgate.net/profile/Horea_Christian)                                                                        | Introduction to GitHub                                            |
+| 13:30 - 14:30      | Tutorial  | [Horea Christian](https://www.researchgate.net/profile/Horea_Christian)                | [Introduction to GitHub](tutorials.html#introduction-to-github)                                            |
 | 14:30 - 15:30      | Talk      | [Tyler Thrash](http://www.geo.uzh.ch/geolean/en/units/giva/staff/?content=tylerthrash) | The Future of Geographic Information Displays.                    |
 | 16:00 - 17:30 | Keynote   | [Daniel Lakens](http://daniellakens.blogspot.com)                                      | Towards a more transparent and reliable science                   |
 | 18:00            |           |                                                                                        | Dinner                                                            |
 |                  |           |                                                                                        |                                                                   |
 | **May 3**        |           |                                                                                        |                                                                   |
 | 9:00 -           | Hackathon |                                                                                        | Open Hacking                                                      |
-| 10:00 - 11:00    | Tutorial  | [Horea Christian](https://www.researchgate.net/profile/Horea_Christian)                | Introduction to BIDS                                              |
+| 10:00 - 11:00    | Tutorial  | [Horea Christian](https://www.researchgate.net/profile/Horea_Christian)                | [Introduction to BIDS](tutorials.html#introduction-to-bids)                                              |
 | 11:00 - 11:50    | Tutorial  | [Franz Liem](http://www.dynage.uzh.ch/en/aboutus/team/postdocs/fliem.html)             | [Introduction to BIDS Apps](tutorials.html#introduction-to-bids-apps)                                        |
 | 11:50 - 12:00    | Talk      | [Sergio Maffioletti](https://www.uzh.ch/id/cl/iframe/org/index.php?id=sma)             | BIDS Apps in the Science Cloud                                         |
 | 14:00 - 16:00    | Helpdesk  |                                                                                        |                                                                   |
