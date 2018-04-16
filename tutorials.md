@@ -90,7 +90,7 @@ ready to install Python).
 * [Jupiter notebook](http://jupyter.org/install)
 * if possible, already
 [installed the dipy library](http://nipy.org/dipy/installation.html)
-(generally simply pip install dipy`)
+(generally simply `pip install dipy`)
 * Download and get the license file of [Trackvis](http://trackvis.org/)
 
 ## Slides
