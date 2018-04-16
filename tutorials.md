@@ -1,3 +1,5 @@
+[Click here to go back to the home page.](https://brainhack-zurich.github.io/)
+
 # Introduction to GitHub
 Horea Christian (ioanas@biomed.ee.ethz.ch)
 
