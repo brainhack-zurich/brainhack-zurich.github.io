@@ -1,6 +1,7 @@
-# List of Projects
-
 [Click here to go back to the home page.](https://brainhack-zurich.github.io/)
+
+
+# List of Projects
 
 
 ## Quality control in MRI data
