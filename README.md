@@ -42,7 +42,7 @@ Participants can propose projects that they would like to work on during the hac
 | **May 3**        |           |                                                                                        |                                                                   |
 | 9:00 -           | Hackathon |                                                                                        | Open Hacking                                                      |
 | 10:00 - 11:00    | Tutorial  | [Horea Christian](https://www.researchgate.net/profile/Horea_Christian)                | Introduction to BIDS                                              |
-| 11:00 - 11:50    | Tutorial  | [Franz Liem](http://www.dynage.uzh.ch/en/aboutus/team/postdocs/fliem.html)             | Introduction to BIDS Apps                                         |
+| 11:00 - 11:50    | Tutorial  | [Franz Liem](http://www.dynage.uzh.ch/en/aboutus/team/postdocs/fliem.html)             | [Introduction to BIDS Apps](tutorials.html#introduction-to-bids-apps)                                        |
 | 11:50 - 12:00    | Talk      | [Sergio Maffioletti](https://www.uzh.ch/id/cl/iframe/org/index.php?id=sma)             | BIDS Apps in the Science Cloud                                         |
 | 14:00 - 16:00    | Helpdesk  |                                                                                        |                                                                   |
 | 16:00 - 17:00    | Talk      | [Mathias Müller](http://www.cl.uzh.ch/de/people/team/compling/mmueller.html)           | Neural networks and machine translation                           |
