@@ -2,7 +2,11 @@ import pandas as pd
 import os
 
 df = pd.read_excel(os.path.expanduser("~/Downloads/Brainhack Zurich 2018 - Projects (Responses).xlsx"))
-s = "# List of Projects\n"
+s = """# List of Projects
+
+[Click here to go back to the home page.](https://brainhack-zurich.github.io/)
+
+"""
 
 
 for r in df.iterrows():

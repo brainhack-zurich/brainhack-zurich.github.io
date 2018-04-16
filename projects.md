@@ -1,5 +1,8 @@
 # List of Projects
 
+[Click here to go back to the home page.](https://brainhack-zurich.github.io/)
+
+
 ## Quality control in MRI data
 *Franz Liem (franziskus.liem@uzh.ch)*
 
