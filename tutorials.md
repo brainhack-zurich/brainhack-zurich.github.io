@@ -1,3 +1,24 @@
+# Introduction to GitHub
+Horea Christian (ioanas@biomed.ee.ethz.ch)
+
+* will be slide-less
+* I will walk the participants through creating an account, cloning a repository, and and creating an issue.
+* I will then divide the class into 2-3 groups, and teach them how to submit and/or accept a pull request.
+* I will explain to participants the difference between live and release versions, and show them how to create a release of their cloned software.
+* Lastly I will show them the command line interface for git, and explain basic commands such as `git diff` and `git log`.
+* It would be great if users of Wndows would come with "GitBash" ( https://gitforwindows.org/ ) preinstalled to save time!
+
+
+
+# Introduction to BIDS
+Horea Christian (ioanas@biomed.ee.ethz.ch)
+
+* Wil contain slides showcasing the directory tree structure, the JSON sidecar file structure, and the naming fields
+* Participants will be advised on how to reproduce these features, ideally on a small subset of their own data. It would be great to encourage them to bring their own data (even if it is junk from the SNR perspective), since it's much more motivating and memorable than working with example data!
+* Participants not having their own data will be offered either the sample data from http://reproducibility.stanford.edu/bids-tutorial-series-part-1a/ or a subset of my own data (depending on whether they are or wish to work with animal or human data)
+* Lastly, participants will be shown the BIDS validator and given the opportunity to put their newly reorganized data to the test.
+
+
 
 # Introduction to BIDS Apps
 Franz Liem (franziskus.liem@uzh.ch)
