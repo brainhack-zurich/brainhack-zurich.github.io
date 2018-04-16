@@ -50,7 +50,7 @@ Participants can propose projects that they would like to work on during the hac
 | **May 4**        |           |                                                                                        |                                                                   |
 | 9:00 - 16:00     | Hackathon |                                                                                        | Open Hacking                                                      |
 | 13:00 - 14:00    | Talk      | [Diana Wotruba](https://www.dianawotruba.com)                                          | VR                                                                |
-| 14:00 - 16:00    | Tutorial  | Alex Crimi                                                                             | Connectivity toolboxes (Dipy, Brainnetviewer, NeuroCave..)        |
+| 14:00 - 16:00    | Tutorial  | Alessandro Crimi                                                                         | Introduction to Tractography       |
 | 16:00 -          |           | Participants                                                                           | Project wrap up                                                   |
 
 ## Registration and further information

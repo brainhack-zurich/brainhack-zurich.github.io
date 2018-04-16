@@ -48,3 +48,49 @@ example data set **#TODO**
 
 ## Slides
 will be posted [here](https://github.com/fliem/bids_apps_intro).
+
+####
+
+# Introduction to Tractography
+Alessandro Crimi (alessandro.crimi@usz.ch)
+
+## Description
+Tractography is a 3D modeling technique used to visually represent neural
+tracts using data collected by diffusion-weighted images (DWI).
+It uses special techniques of magnetic resonance imaging (MRI) and
+computer-based image analysis.
+
+Tractography can be achieved by using available tools or by using
+Python scripts. We will focus on this latter approach and on
+manipulation
+of the results via an opensource tool called Trackvis.
+
+For more details I recommend the
+[PhD thesis of Prof. Descoteaux](https://tel.archives-ouvertes.fr/tel-00457458/document).
+
+## What to expect
+After a brief introduction on diffusion tensor imaging, participants
+will run and personalize a given Python script o their laptops to
+generate a tractography.
+
+They will learn basic use of Trackvis to analyze the results.
+
+## Prerequisites
+The tutorial is open to everyone with basic experience with MRI data,
+neuroanatomy and programming. No prior experience with programming
+required though a basic knowledge or willingness to learn-by-doing is
+required.
+
+## What to bring
+
+* Laptop with Python installed (or either Linux or Conda
+ready to install Python).
+* [Jupiter notebook](http://jupyter.org/install)
+* if possible, already
+[installed the dipy library](http://nipy.org/dipy/installation.html)
+(generally simply pip install dipy`)
+* Download and get the license file of [Trackvis](http://trackvis.org/)
+
+## Slides
+will be posted
+[here](https://github.com/alecrimi/DTItutorial/blob/master/Tutorial.pdf)
