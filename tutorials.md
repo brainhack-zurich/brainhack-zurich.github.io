@@ -63,8 +63,8 @@ using:
     * open a terminal window/command line
     * paste the following command: `docker pull poldracklab/mriqc:0.10.4`
     * press enter and wait for the download to be finished
-* download the following [BIDS-formatted](http://bids.neuroimaging.io)
-example data set **#TODO**
+* [download](https://osf.io/fsyq2/download) the this BIDS-formatted
+example data set (430 MB)
 *  optionally, bring your own BIDS-formatted MRI data
 (T1w and/or functional), for instance, the result of the
 **Introduction to BIDS** tutorial)
