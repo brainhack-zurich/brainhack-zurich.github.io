@@ -26,17 +26,17 @@ Participants can propose projects that they would like to work on during the hac
 **A list of projects can be found [here](projects.html)**
 
 
-## Provisional schedule
+## Schedule
 
 |                  |           |                                                                                        |                                                                   |
 |------------------|-----------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | **May 2**        |           |                                                                                        |                                                                   |
 | 9:00 - 9:30        |           |                                                                                        | Introduction to Brainhack, presentation of the space and schedule |
 | 9:30 - 10:30       |           | Participants                                                                           | Project pitches                                                   |
-| 10:30 -          | Hackathon |                                                                                        | Open Hacking                                                      |
+| 10:30 -          | Hackathon |                                                                                          | Open Hacking                                                      |
 | 13:30 - 14:30      | Tutorial  | [Horea Christian](https://www.researchgate.net/profile/Horea_Christian)                | [Introduction to GitHub](tutorials.html#introduction-to-github)                                            |
-| 14:30 - 15:30      | Talk      | [Tyler Thrash](http://www.geo.uzh.ch/geolean/en/units/giva/staff/?content=tylerthrash) | The Future of Geographic Information Displays.                    |
-| 16:00 - 17:30 | Keynote   | [Daniel Lakens](http://daniellakens.blogspot.com)                                      | Towards a more transparent and reliable science                   |
+| 14:30 - 15:30      | Talk      | [Tyler Thrash](http://www.geo.uzh.ch/geolean/en/units/giva/staff/?content=tylerthrash) | The Future of Geographic Information Displays                    |
+| 16:00 - 17:30 | Keynote   | [Daniel Lakens](http://daniellakens.blogspot.com)                                         | Towards a more transparent and reliable science                   |
 | 18:00            |           |                                                                                        | Dinner                                                            |
 |                  |           |                                                                                        |                                                                   |
 | **May 3**        |           |                                                                                        |                                                                   |
@@ -49,8 +49,8 @@ Participants can propose projects that they would like to work on during the hac
 |                  |           |                                                                                        |                                                                   |
 | **May 4**        |           |                                                                                        |                                                                   |
 | 9:00 - 16:00     | Hackathon |                                                                                        | Open Hacking                                                      |
-| 13:00 - 14:00    | Talk      | [Diana Wotruba](https://www.dianawotruba.com)                                          | VR                                                                |
-| 14:00 - 16:00    | Tutorial  | Alessandro Crimi                                                                         | [Introduction to Tractography](tutorials.html#introduction-to-tractography)       |
+| 13:00 - 14:00    | Talk      | [Diana Wotruba](https://www.dianawotruba.com)                                          | What I cannot create, I do not understand? The art behind the science of virtual reality                                                                |
+| 14:00 - 16:00    | Tutorial  | Alessandro Crimi                                                                       | [Introduction to Tractography](tutorials.html#introduction-to-tractography)       |
 | 16:00 -          |           | Participants                                                                           | Project wrap up                                                   |
 
 ## Registration and further information
