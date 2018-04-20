@@ -45,3 +45,13 @@ We will discuss and compare different statistical methods suited to analyze long
 
 
     
+## Migraine Tiger
+*Pieter De Bakker, Roy Morrison, Sébastien Guarnay (pieter_db@hotmail.com)*
+
+1 out of 7 people’s lives are negatively impacted by migraine. We want to create an intelligent app to help patients manage their disease better than the current alternatives. We will do this by letting a smart watch track real-time health data which will give non-biased insights in the triggers of your migraine. In that way we want to help the patient avoid having migraine attacks.
+
+Currently our idea is pre-seed phase and we do have a complete skill set on board except the neuroscientific background. Therefore we are looking for someone who can give input on the medical side of our value proposition.
+
+
+
+    
