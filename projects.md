@@ -11,13 +11,6 @@ We will discuss approaches to check quality of structural and functional MRI dat
 
 
     
-## Statistical methods for longitudinal dat
-*Jessica Oschwald (jessica.oschwald@uzh.ch)*
-
-We will discuss and compare different statistical methods suited to analyze longitudinal data, with a focus on modeling change processes over time (e.g., multilevel models, latent change models). Specifically, we will talk about the most common issues encountered when fitting these type of models, with the aim of identifying best practices. How can we compute a measure of effect size? How do we decide on the best fitting model? What are tools that can help with fitting and visualizing model outputs? 
-
-
-    
 ## Dynamical Functional Connectivity in the Brain Networks 
 *Alessandro Crimi (alessandro.crimi@usz.ch)*
 
@@ -42,6 +35,13 @@ We will have testing/validation data available, and we're happy to help you get 
 *Hongyu luo (Luo.hongyu@outlook.com)*
 
 I would like to using machine learning algorithm on brain image data.
+
+
+    
+## Statistical methods for longitudinal data
+*Jessica Oschwald ( jessica.oschwald@uzh.ch)*
+
+We will discuss and compare different statistical methods suited to analyze longitudinal data, with a focus on modeling change processes over time (e.g., multilevel models, latent change models). Specifically, we will talk about the most common issues encountered when fitting these type of models, with the aim of identifying best practices. How can we compute a measure of effect size? How do we decide on the best fitting model? What are tools that can help with fitting and visualizing model outputs?
 
 
     
