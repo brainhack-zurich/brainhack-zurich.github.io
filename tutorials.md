@@ -3,13 +3,22 @@
 # Introduction to GitHub
 Horea Christian (ioanas@biomed.ee.ethz.ch)
 
-* will be slide-less
-* I will walk the participants through creating an account, cloning a repository, and and creating an issue.
-* I will then divide the class into 2-3 groups, and teach them how to submit and/or accept a pull request.
-* I will explain to participants the difference between live and release versions, and show them how to create a release of their cloned software.
-* Lastly I will show them the command line interface for git, and explain basic commands such as `git diff` and `git log`.
-* It would be great if users of Wndows would come with "GitBash" ( https://gitforwindows.org/ ) preinstalled to save time!
+GitHub is one of the most popular social coding platforms, and hosts repositories for the most prominent free and open source software packages in and outside of neuroscience.
+Understanding how to make efficient use of this (and similar) platforms is vital for succesful contribution to collaborative neuroscientific data analysis and software development efforts.
+This slide-less presentation will walk you through the website, key features it offers, and familiarize you with the underlying Git technology.
 
+### Contents
+
+* Learn how to create an account, clone a repository, and and create an issue.
+* Work in large groups and become familiarized with submitting and/or accepting a pull request.
+* Understand the difference between live and release versions, and learn how to create a software package release.
+* Try your hand at the command line interface for git, and understand basic commands such as `git diff` and `git log`.
+
+### Prerequisites
+
+* Laptop.
+* For Linux and Macintosh Users: [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* For Windows Users: [GitBash](https://gitforwindows.org/)
 
 
 # Introduction to BIDS
