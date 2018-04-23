@@ -31,13 +31,6 @@ We will have testing/validation data available, and we're happy to help you get 
 
 
     
-## Pattern recognition on brain image
-*Hongyu luo (Luo.hongyu@outlook.com)*
-
-I would like to using machine learning algorithm on brain image data.
-
-
-    
 ## Statistical methods for longitudinal data
 *Jessica Oschwald ( jessica.oschwald@uzh.ch)*
 
@@ -52,6 +45,19 @@ We will discuss and compare different statistical methods suited to analyze long
 
 Currently our idea is pre-seed phase and we do have a complete skill set on board except the neuroscientific background. Therefore we are looking for someone who can give input on the medical side of our value proposition.
 
+
+
+    
+## Pattern recognition on brain image
+*Hongyu luo (Luo.hongyu@outlook.com)*
+
+I would like to using machine learning algorithm on brain image data
+Ideally, we could use python(pyMVPA, keras) or matlab(SPM, The Decoding Toolbox). But I’m also open to other packages if possible.
+I’m open to talk about the method or work on project.
+
+Hebart et al. (2014). http://doi.org/10.3389/fninf.2014.00088
+Pereira et al. (2009). http://doi.org/10.1016/j.neuroimage.2008.11.007
+Shirer et al. (2012). http://doi.org/10.1093/cercor/bhr099
 
 
     
