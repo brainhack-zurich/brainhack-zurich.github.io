@@ -55,8 +55,7 @@ Participants can propose projects that they would like to work on during the hac
 | 16:00 -          |           | Participants                                                                           | Project wrap up                                                   |
 
 ## Registration and further information
-The admission is free but [registration](https://goo.gl/forms/Ss9dlfuGWzqsuy6y1) is required.
-The official registration already ended but late birds are welcome to register.
+Registration is already closed.
 
 ## Location
 The event will be held at the University Research Priority Program Dynamics of Healthy Aging at UZH, Andreasstrasse 15, 8050 Zurich.
