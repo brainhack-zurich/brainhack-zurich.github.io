@@ -61,3 +61,20 @@ Shirer et al. (2012). http://doi.org/10.1093/cercor/bhr099
 
 
     
+## sweetData
+*Ronald Sladky (ronald.sladky@uzh.ch)*
+
+Organizing neuroimaging, behavioral, and psychometric data can be challenging. While there are standardized formats that help you to organize your processed data (e.g., BIDS), we could also use technologies that help us to manage our raw data, which sometimes (actually, too often!) need to be transferred using unreliable methods, such as USB drives.
+
+Objectives:
+- To test data integrity (Did I transfer all runs from my MR Scanner? Are the MR images exported correctly or did the export skip some of the volumes? Did I copy all the logfiles from the other computer(s)?)
+- To monitor project status (Did I convert all the files on the server into the right format? What is the status of my backups?)
+- To perform routine actions automatically (transferring files, file conversion, backups) and inform me if something goes wrong
+- To develop a framework that is easily adaptable to many different lab setups and requirements
+- To make this framework easy to setup and use for novice researchers and even PI's
+- To allow for quick queries on your project status, which allow you to respond to missing data etc. quickly (e.g., before it is removed from your MR scanner image database)
+
+In this project we would like to brainstorm the requirements and conceptualize possible implementations of this data organization tool.
+
+
+    
