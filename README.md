@@ -32,7 +32,7 @@ Participants can propose projects that they would like to work on during the hac
 |                  |           |                                                                                        |                                                                   |
 |------------------|-----------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | **May 2**        |           |                                                                                        |                                                                   |
-| 9:00 - 9:30        |           |                                                                                        | Introduction to Brainhack, presentation of the space and schedule |
+| 9:00 - 9:30        |           |                                                                                        | [Introduction to Brainhack, presentation of the space and schedule](https://docs.google.com/presentation/d/1DzY-dkYtK4HqlOOGL602h1aH76hhq_flTA-HB1bQF1c/edit?usp=sharing) |
 | 9:30 - 10:30       |           | Participants                                                                           | Project pitches                                                   |
 | 10:30 -          | Hackathon |                                                                                          | Open Hacking                                                      |
 | 13:30 - 14:30      | Tutorial  | [Horea Christian](https://www.researchgate.net/profile/Horea_Christian)                | [Introduction to GitHub](tutorials.html#introduction-to-github)                                            |
