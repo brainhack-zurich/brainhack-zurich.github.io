@@ -54,6 +54,11 @@ Participants can propose projects that they would like to work on during the hac
 | 14:00 - 16:00    | Tutorial  | Alessandro Crimi                                                                       | [Introduction to Tractography](tutorials.html#introduction-to-tractography)       |
 | 16:00 -          |           | Participants                                                                           | Project wrap up                                                   |
 
+
+**A schedule of video streams by other sites can be
+found [here](https://docs.google.com/spreadsheets/d/1IheJnQYykbZOnXZ7pJHif_4McR8u-oB2fcgsQ6TD5j0/edit?usp=sharing)**
+
+
 ## Registration and further information
 Registration is already closed.
 
