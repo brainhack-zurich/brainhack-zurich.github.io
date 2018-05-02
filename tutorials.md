@@ -5,7 +5,7 @@ Horea Christian (ioanas@biomed.ee.ethz.ch)
 
 GitHub is one of the most popular social coding platforms, and hosts repositories for the most prominent free and open source software packages in and outside of neuroscience.
 Understanding how to make efficient use of this (and similar) platforms is vital for succesful contribution to collaborative neuroscientific data analysis and software development efforts.
-This slide-less presentation will walk you through the website, key features it offers, and familiarize you with the underlying Git technology.
+This [almost slide-less](https://bitbucket.org/TheChymera/education-git/raw/d90dbf0dc9f749f57130b0a41b92aa9efad8b3aa/pres.pdf) presentation will walk you through the concepts of Git, the GitHub website, key features it offers, and familiarize you with the underlying Git technology.
 
 ### Contents
 
