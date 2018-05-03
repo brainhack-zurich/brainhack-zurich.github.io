@@ -24,7 +24,7 @@ This [almost slide-less](https://bitbucket.org/TheChymera/education-git/raw/d90d
 # Introduction to BIDS
 Horea Christian (ioanas@biomed.ee.ethz.ch)
 
-* Wil contain slides showcasing the directory tree structure, the JSON sidecar file structure, and the naming fields
+* Wil contain [slides showcasing a BIDS directory tree](https://bitbucket.org/TheChymera/education-bids/src/master/), the JSON sidecar file structure, and the naming fields
 * Participants will be advised on how to reproduce these features, ideally on a small subset of their own data. It would be great to encourage them to bring their own data (even if it is junk from the SNR perspective), since it's much more motivating and memorable than working with example data!
 * Participants not having their own data will be offered either the sample data from http://reproducibility.stanford.edu/bids-tutorial-series-part-1a/ or a subset of my own data (depending on whether they are or wish to work with animal or human data)
 * Lastly, participants will be shown the BIDS validator and given the opportunity to put their newly reorganized data to the test.
