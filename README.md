@@ -50,7 +50,7 @@ Participants can propose projects that they would like to work on during the hac
 |                  |           |                                                                                        |                                                                   |
 | **May 4**        |           |                                                                                        |                                                                   |
 | 9:00 - 16:00     | Hackathon |                                                                                        | Open Hacking                                                      |
-| 13:00 - 14:00    | Talk      | [Diana Wotruba](https://www.dianawotruba.com)                                          | What I cannot create, I do not understand? The art behind the science of virtual reality                                                                |
+| 13:00 - 14:00    | Talk      | [Ronny Sladky](http://sweetneuron.at/wp/)                                          | What the hack? Unified in practice - unified in theory?                                                                |
 | 14:00 - 16:00    | Tutorial  | Alessandro Crimi                                                                       | [Introduction to Tractography](tutorials.html#introduction-to-tractography)       |
 | 16:00 -          |           | Participants                                                                           | Project wrap up                                                   |
 
