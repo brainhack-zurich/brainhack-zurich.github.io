@@ -1,3 +1,4 @@
+### Visit the [October 2018 Zurich Brainhack page](http://www.brainhackzurich.ch/) for the current event.
 
 ![](logo.png)
 # Brainhack Zurich 2018, May 2-4
