@@ -1,7 +1,3 @@
----
-redirect_to: "http://www.brainhackzurich.ch/"
----
-
 ### Visit the [October 2018 Zurich Brainhack page](http://www.brainhackzurich.ch/) for the current event.
 
 ![](logo.png)
